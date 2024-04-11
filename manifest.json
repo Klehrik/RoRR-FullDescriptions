@@ -1,0 +1,9 @@
+﻿{
+	"name": "Full_Descriptions",
+	"version_number": "1.0.1",
+	"website_url": "https://github.com/Klehrik/RoRR-FullDescriptions",
+	"description": "Replaces item pickup texts with the full log descriptions for all languages.",
+	"dependencies": [
+		"ReturnOfModding-ReturnOfModding-1.0.22"
+	]
+}
